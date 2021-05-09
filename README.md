@@ -5,3 +5,5 @@ This is a word processor running inside the Pico-8 engine, written entirely in L
 - Pico-8: Open the console and load the source code (.p8 file) or drag in the cart file (.p8.png)
 
 View the forum post containing this software here: https://www.lexaloffle.com/bbs/?tid=41855
+
+![alt text](https://github.com/chrisasma103/Pico-8-Word-Processor/blob/main/p8wp.p8.png)
